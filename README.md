@@ -31,3 +31,7 @@ if (len <=100000):
 else:
   print("Your Password Length Must Be Under 100,000")
   ```
+```
+>>>Enter the length of Password: 16
+>>>Ypur Password: 9@Z%35b*z{H64k]5
+```
