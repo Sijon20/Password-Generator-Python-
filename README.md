@@ -1,7 +1,7 @@
 # Password-Generator
 This programme is for generate random password through your input length 
 
-Code is -
+# Raw Code is -
 ```
 import random
 Ual = "QWERTYUIOPASDFGHJKLZXCVBNM"
