@@ -34,6 +34,7 @@ else:
   
   # Example 
 ```
->>>Enter the length of Password: `16`
->>>Ypur Password: `9@Z%35b*z{H64k]5`
+>>>Enter the length of Password: 16
+>>>Ypur Password: 9@Z%35b*z{H64k]5
 ```
+
