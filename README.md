@@ -2,7 +2,7 @@
 This programme is for generate random password through your input length 
 
 # Raw Code is -
-```
+```ruby
 import random
 Ual = "QWERTYUIOPASDFGHJKLZXCVBNM"
 Lal ="qwertyuiopasdfghjklzxcvbnm"
